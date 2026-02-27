@@ -4,14 +4,20 @@
 ## Deployment Info
 
 EC2 Instance Type: t2.micro, Amazon Linux 2023
+---
 Public IP: 3.141.40.35
+---
 Port: 8080
+---
 Database: SQLite (orders.db)
+---
 
 ### Security Group Inbound Rules
 
 SSH, 22, 0.0.0.0/0
+---
 Custom TCP, 8080, 0.0.0.0/0
+---
 
 ---
 
