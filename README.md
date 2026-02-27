@@ -23,12 +23,11 @@ Custom TCP, 8080, 0.0.0.0/0
 
 ## Project Structure
 ```
+README.md
 db/
 ├── app.py          # Main Flask application
 ├── database.py     # SQLite connection and helpers
-├── schema.sql      # Database table definitions
-├── requirements.txt
-└── README.md
+└── schema.sql      # Database table definitions
 ```
 
 ---
