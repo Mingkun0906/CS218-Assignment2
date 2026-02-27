@@ -133,7 +133,6 @@ curl -X POST http://3.141.40.35:8080/orders \
 ---
 
 ### Step 6 — Verify Order Exists
-Replace `<order_id>` with the `order_id` returned from Step 1:
 ```bash
 curl http://3.141.40.35:8080/orders/<order_id>
 ```
