@@ -1,5 +1,8 @@
 # CS218 Assignment 2
 
+## Demo Video Link
+
+https://youtu.be/gT5s2V3OoW8
 
 ## Deployment Info
 
