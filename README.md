@@ -36,7 +36,8 @@ db/
 
 ### 1. SSH into EC2
 ```bash
-ssh -i "your-key.pem" ec2-user@3.141.40.35
+chmod 400 "hw2.pem"
+ssh -i "hw2.pem" ec2-user@ec2-3-141-40-35.us-east-2.compute.amazonaws.com
 ```
 
 ### 2. Install dependencies
